@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-libydelacosta/libydelacosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[🙈Facebook](https://www.facebook.com/profile.php?id=100081144393297)
+[🙈Github](https://github.com/libydelacosta)
+[🙈Website](https://libydelacosta.vercel.app)
+[🙈Email](mailto:janlibydelacosta@gmail.com) 
