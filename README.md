@@ -10,14 +10,7 @@
  </a>
  </div>
  
-<div align='center'>
- <br><br>
-<h3>My Current Skillset</h3> 
- <img src="https://skillicons.dev/icons?i=html,css,js,java,python&theme=dark&perline=8" />
 
- <br>
- 
-</div>
  
  <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&theme=tokyonight&layout=compact" width="400px" />
