@@ -1,10 +1,7 @@
 
  <div align="center">
  <h3>Jan Liby Dela Costa</h3>
-            <p>if(lose) {
-again
-} else {
-don't give up! } </p>
+            <p>Hatdog1234</p>
             <br />
 
 
