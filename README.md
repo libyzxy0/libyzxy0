@@ -6,6 +6,8 @@ again
 } else {
 don't give up! } </p>
             <br />
+
+
  <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=libyzxy0" />
   
@@ -13,9 +15,8 @@ don't give up! } </p>
  </a>
  </div>
  
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=libyzxy0&?count_private=true&show_icons=true&theme=tokyonight" />
 
- 
- <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&theme=dark&layout=compact" width="400px" />
 </p>
  
