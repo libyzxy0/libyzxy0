@@ -16,8 +16,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&theme=dark&layout=compact" width="400px" />
 </p>
- 
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=libyzxy0&theme=dark" />
  </div>
+
+  <div align="center">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=mrepol742&theme=gruvbox">
+</div>
