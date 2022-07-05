@@ -1,9 +1,8 @@
 
  <div align="center">
  <h3>Jan Liby Dela Costa</h3>
-            <p>Hatdog1234</p>
-            <br />
-
+https://libyzxy0.vercel.app/
+https://g.dev/libyzxy0/
 
  <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=libyzxy0" />
