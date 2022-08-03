@@ -1,8 +1,8 @@
 
  <div align="center">
  <h3>Jan Liby Dela Costa</h3>
-https://libyzxy0.vercel.app/
-https://g.dev/libyzxy0/
+
+  <img src="https://img.wattpad.com/b0c222065fa2a1088502fb9d9b07fcba02d898da/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f30726f644f76525f4937435065513d3d2d3838383230323830342e313631303634646636343664643832633537313333343033333039372e676966" width="270"/>
 
  <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=libyzxy0" />
