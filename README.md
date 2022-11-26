@@ -5,8 +5,8 @@
 </em></p>
 
 [![Twitter: Liby](https://img.shields.io/twitter/follow/libyzxy0?style=social)](https://twitter.com/libyzxy0)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libyzxy0/)](https://www.linkedin.com/in/libyzxy0/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)
+[![Linkedin: Jan Liby Dela Costa](https://img.shields.io/badge/-libyzxy0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libyzxy0/)](https://www.linkedin.com/in/libyzxy0/)
+[![GitHub Libyzxy0](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
