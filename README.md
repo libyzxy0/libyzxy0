@@ -12,14 +12,14 @@
 
 ```javascript
 const libyzxy0 = {
-  pronouns: "she" | "her",
-  code: [Javascript, Java, C++],
-  tools: [Reactjs, Nodejs],
+  code: ["Javascript", "Nodejs", "Html/Css"],
+  frameworks: ["Reactjs"],
   info: {
-           name: "Jan Liby Dela Costa",
-           username: "libyzxy0",
-           age: 14
-        },
+       name: "Jan Liby Dela Costa",
+       username: "libyzxy0",
+       age: 14, 
+       website: "https://liby0.vercel.app"
+  },
  challenge: "I am doing the #100DaysOfCode challenge focused on javascript."
 }
 ```
