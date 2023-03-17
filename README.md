@@ -27,9 +27,9 @@ const libyzxy0 = {
  
  <br><br>
  <p align="center"> 
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=libyzxy0&?count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=libyzxy0&?count_private=true&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
  <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
 </p>
 
 
