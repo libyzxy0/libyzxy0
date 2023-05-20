@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Jan Liby Dela Costa(libyzxy0)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://graph.facebook.com/100081144393297/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" width="90">
-<p><em>Visit my portfolio here <a href="https://liby0.vercel.app">Libyyy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://shoti.libyzxy0-edu.repl.co/">Shoti-API</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Visit my portfolio here <a href="https://libyzxy0.netlify.app">Libyyy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://shoti.libyzxy0-edu.repl.co/">Shoti-API</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Liby](https://img.shields.io/twitter/follow/libyzxy0?style=social)](https://twitter.com/libyzxy0)
@@ -12,13 +12,21 @@
 
 ```javascript
 const libyzxy0 = {
-  code: ["Javascript", "Nodejs", "Html/Css"],
-  frameworks: ["Reactjs"],
+  code: [
+     "Javascript", 
+     "Nodejs", 
+     "Html/Css"
+   ],
+  frameworks: [
+     "Reactjs",
+     "Tailwind css", 
+     "Bootstrap"
+  ],
   info: {
        name: "Jan Liby Dela Costa",
        username: "libyzxy0",
        age: 14, 
-       website: "https://liby0.vercel.app"
+       website: "https://libyzxy0.netlify.app"
   },
  challenge: "I am doing the #100DaysOfCode challenge focused on javascript."
 }
