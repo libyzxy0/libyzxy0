@@ -17,18 +17,16 @@ const libyzxy0 = {
      "Nodejs", 
      "Html/Css"
    ],
-  frameworks: [
-     "Reactjs",
-     "Tailwind css", 
-     "Bootstrap"
-  ],
+  tools: [
+     "Reactjs", 
+     "Express"
+  ] 
   info: {
        name: "Jan Liby Dela Costa",
        username: "libyzxy0",
        age: 14, 
        website: "https://libyzxy0.netlify.app"
   },
- challenge: "I am doing the #100DaysOfCode challenge focused on javascript."
 }
 ```
 
