@@ -8,30 +8,26 @@
 [![Linkedin: Jan Liby Dela Costa](https://img.shields.io/badge/-libyzxy0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/libyzxy0/)](https://www.linkedin.com/in/libyzxy0/)
 [![GitHub Libyzxy0](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-```javascript
-const libyzxy0 = {
-  code: [
-     "Javascript", 
-     "Nodejs", 
-     "Html/Css"
-   ],
-  tools: [
-     "Vuejs", 
-     "Express",
-     "Bootstrap",
-     "JQuery" 
-  ] 
-  info: {
-       name: "Jan Liby Dela Costa",
-       username: "libyzxy0",
-       age: 15, 
-       website: "https://libyzxy0.netlify.app"
-  },
-}
-```
-
+### 🚀 Technologies
+<div align="center">
+   <p>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+   </p>
+  </div>
  
  <br><br>
  <p align="center"> 
@@ -40,6 +36,7 @@ const libyzxy0 = {
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
 </p>
 
+![](https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/assets/github-contribution-grid-snake.svg)          
 
 
 
