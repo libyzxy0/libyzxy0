@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jan Liby Dela Costa(libyzxy0)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://graph.facebook.com/100081144393297/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" width="90">
-<p><em>Visit my portfolio here <a href="https://www.libyzxy.xyz">Libyyy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Visit my portfolio here <a href="https://www.libyzxy.com">libyzxy0.com</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![committers.top badge](https://user-badge.committers.top/philippines/libyzxy0.svg)](https://user-badge.committers.top/philippines/libyzxy0)
@@ -37,14 +37,14 @@
   </div>
  
  <br><br>
- <p align="center"> 
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=libyzxy0&?count_private=true&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
- <br/><br/>
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&layout=compact&hide_border=true&show_icons=true&theme=tokyonight" />
-</p>
 
-![](https://cdn.jsdelivr.net/gh/0x3EF8/0x3EF8/assets/github-contribution-grid-snake.svg)          
+---
+### Activities
+| | |
+| :--- | ---: |
+| ![](https://github-readme-stats.vercel.app/api?username=libyzxy0&show_icons=true&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=libyzxy0&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=libyzxy0&layout=compact&theme=tokyonight)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=libyzxy0&theme=tokyonight) |
 
-
-
+---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=libyzxy0&bg_color=0a0119&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
