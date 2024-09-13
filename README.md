@@ -1,4 +1,4 @@
-<img style="height: 11rem; width: 80%;" src="https://raw.githubusercontent.com/libyzxy0/libyzxy0/main/banner.png" alt="libyzxy0 banner">
+<img style="height: 11rem; width: 100%;" src="https://raw.githubusercontent.com/libyzxy0/libyzxy0/main/banner.png" alt="libyzxy0 banner">
 
 # 💫 About Me
 I'm **Jan Liby Dela Costa**, a 16-year-old full-stack web developer with over two years of experience, mainly focusing on frontend development. I'm passionate about improving performance, collaborating on exciting projects, and continuously learning to make a difference in tech.
