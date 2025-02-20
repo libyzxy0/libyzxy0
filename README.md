@@ -1,11 +1,11 @@
 <img style="height: 11rem; width: 100%;" src="https://raw.githubusercontent.com/libyzxy0/libyzxy0/main/banner.png" alt="libyzxy0 banner">
 
 # 💫 About Me
-I'm **Jan Liby Dela Costa**, a 16-year-old full-stack web developer with over two years of experience, mainly focusing on frontend development. I'm passionate about improving performance, collaborating on exciting projects, and continuously learning to make a difference in tech.
+I'm **Jan Liby Dela Costa**, a 16-year-old full-stack developer with over two years of experience, mainly focusing on frontend development. I'm passionate about improving performance, collaborating on exciting projects, and continuously learning to make a difference in tech.
 
 [![](https://visitcount.itsvg.in/api?id=libyzxy0&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p><em>Visit my portfolio here: <a href="https://www.libyzxy0.com" target="_blank">libyzxy0.com</a></em></p>
+<p><em>Visit my portfolio here: <a href="https://janlibydelacosta.vercel.app" target="_blank">janlibydelacosta.vercel.app</a></em></p>
 
 ---
 
