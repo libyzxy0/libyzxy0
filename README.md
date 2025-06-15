@@ -1,5 +1,3 @@
-<img style="height: 11rem; width: 100%;" src="https://raw.githubusercontent.com/libyzxy0/libyzxy0/main/banner.png" alt="libyzxy0 banner">
-
 # 💫 About Me
 I'm **Jan Liby Dela Costa**, a 16-year-old full-stack developer with over two years of experience, mainly focusing on frontend development. I'm passionate about improving performance, collaborating on exciting projects, and continuously learning to make a difference in tech.
 
@@ -12,13 +10,7 @@ I'm **Jan Liby Dela Costa**, a 16-year-old full-stack developer with over two ye
 [![committers.top badge](https://user-badge.committers.top/philippines/libyzxy0.svg)](https://user-badge.committers.top/philippines/libyzxy0)
 [![GitHub Libyzxy0](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/libyzxy0) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/libyzxy0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/libyzxy0) 
-[![X](https://img.shields.io/badge/X-%23121011.svg?logo=X&logoColor=white)](https://x.com/libyzxy0) 
-
-## 🚀 Technologies
+## 🚀 Tech Stack
 <div>
    <p>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,18 +18,14 @@ I'm **Jan Liby Dela Costa**, a 16-year-old full-stack developer with over two ye
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
    </p>
 </div>
 
