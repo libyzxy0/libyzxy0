@@ -1,7 +1,7 @@
 # 💫 About Me
 I'm **Jan Liby Dela Costa**, a 17-year-old full-stack developer. I'm passionate about improving performance, collaborating on exciting projects, and continuously learning to make a difference in tech.
 
-<p><em>Visit my portfolio here: <a href="https://janlibydelacosta.vercel.app" target="_blank">janlibydelacosta.vercel.app</a></em></p>
+<p><em>Visit my portfolio here: <a href="https://www.libyzxy0.me" target="_blank">www.libyzxy0.me</a></em></p>
 
 ---
 
