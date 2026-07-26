@@ -1,9 +1,12 @@
 <div align="center">
+   
+<a href="https://user-badge.committers.top/philippines/libyzxy0">
+<img src="https://raw.githubusercontent.com/libyzxy0/libyzxy0/refs/heads/main/github-header-banner.png"/>
+</a>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=67F731&center=true&random=true&width=435&lines=Full-Stack+Developer;Turning+Ideas+Into+Code;Student+Developer)](https://git.io/typing-svg)
-
-### BSIT Student • Full-Stack Developer
+ --- 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&color=67F731&center=true&random=true&width=435&height=60&lines=Full-Stack+Developer;Turning+Ideas+Into+Code;Student+Developer)](https://git.io/typing-svg)
 
 I'm a BSIT student passionate about full-stack development, with experience building web, mobile, and IoT applications. I focus on writing clean, efficient code while constantly expanding my skills through real-world projects.
 
@@ -54,7 +57,7 @@ I'm a BSIT student passionate about full-stack development, with experience buil
 
 <br><br>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=libyzxy0&bg_color=0a0119&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=libyzxy0&bg_color=111112&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
