@@ -52,7 +52,7 @@ I'm a BSIT student passionate about full-stack development, with experience buil
     height="170"
     alt="Top Languages"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=libyzxy0&theme=aura&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=310&card_height=160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=libyzxy0&theme=aura&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_height=160" alt="GitHub Streak" />
 </div>
 
 <br><br>
