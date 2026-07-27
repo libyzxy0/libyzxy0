@@ -6,7 +6,7 @@
 
  --- 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&color=67F731&center=true&random=true&width=435&height=60&lines=Full-Stack+Developer;Turning+Ideas+Into+Code;Student+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&pause=1000&color=67F731&center=true&width=435&height=60&lines=Full-Stack+Developer;Turning+Ideas+Into+Code;Student+Developer;And+Yes+I+Vibe+Code)](https://git.io/typing-svg)
 
 I'm a BSIT student passionate about full-stack development, with experience building web, mobile, and IoT applications. I focus on writing clean, efficient code while constantly expanding my skills through real-world projects.
 
